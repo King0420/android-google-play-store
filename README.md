@@ -23,5 +23,15 @@
 ![8I8@Z 9XDOGZ8U98CC94AC9](https://github.com/user-attachments/assets/8b25cbbe-baf2-4bc3-90f7-a506a987bd2a)
 
 
+### 推荐回答
 
+https://www.zhihu.com/question/20232626/answer/147607934?utm_psn=1894118306811724205
+国外的：
 
+http://apkpure.com 这个是目前知名度最高的，包的数量是最多的，收录量也是最大的，下载速度也很快，但是问题是版本更新不太及时，如果不严格要求最新版本的话，有这个基本够用了。
+
+http://apkleecher.com 和apkpure差不多。
+
+http://apps.evozi.com/apk-downloader/ 包也比较全，部分版本更新速度比apkpure快一些。
+
+ https://androidappsapk.co/apkdownloader/强烈推荐，如果对APP的更新时效性要求很高的话，最推荐用这个。这个站是破解的google的接口，绝对的google play最新版本，就是服务不稳定，而且下载包很慢，需要一个稳定的VPN。
